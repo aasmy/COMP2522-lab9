@@ -25,6 +25,6 @@ See **Lucky_Vault_lab09.pdf** for full instructions.
 
 ---
 
-## 👥 Authors
+##  Authors
 - **Author 1** - Abdullah Asmy  
 - **Author 2** - Indy Grewel
